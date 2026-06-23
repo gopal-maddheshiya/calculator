@@ -12,7 +12,3 @@ A simple calculator web app built with HTML, CSS, and JavaScript.
 
 1. Open `index.html` in a browser.
 2. Use the calculator buttons to perform basic arithmetic operations.
-
-## Notes
-
-This project is ready to be committed to Git.
